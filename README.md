@@ -1,2 +1,2 @@
-# Smg-hub
-All mastech0628 codes
+# Data_structure_and_algorithms
+All_codes_in_python
